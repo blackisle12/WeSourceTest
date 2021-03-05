@@ -6,6 +6,10 @@ Hey guys, before running the application make sure you have the following:
 2. SQL Server 2016 or higher
 3. .Net Core 3.0 runtime
 
+Technologies:
+1. ASP.Net Core 3.0 MVC with API controllers
+2. SQL Server
+
 Instructions:
 
 1. Open the solution in Visual Studio (Run as Administrator is recommended)
